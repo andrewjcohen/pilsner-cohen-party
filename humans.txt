@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Andrew Cohen - Designer & Developer - @andrewcohen
+    Alison Pilsner - Copy & Direction - @alisonpilsner
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
